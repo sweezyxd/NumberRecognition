@@ -7,7 +7,11 @@ Just a simple number recognition script I've made out of boredom today.
 
 
 Example:
+
+
 ![Capture](https://user-images.githubusercontent.com/98488748/227741559-1a8a7bd6-23e4-41ac-a4c3-8bee11332d65.PNG)
+
+
 ```The number: 5 || The model predicted: 5```
 
 # Requirements
