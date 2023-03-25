@@ -1,5 +1,6 @@
 # NumberRecognition
 Just a simple number recognition script I've made out of boredom today.
+![Capture](https://user-images.githubusercontent.com/98488748/227741528-7d78cfe4-5a7e-4aa2-b575-e2b6cee5d17c.PNG)
 
 # Requirements
 In order for the script to run successfully on your machine, you'll need to have the following packages installed:
