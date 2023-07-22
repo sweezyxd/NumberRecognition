@@ -1,5 +1,5 @@
 # NumberRecognition
-Just a simple number recognition script I've made out of boredom today.
+Just a simple number recognition script I've made ([SillyNeurons](https://github.com/sweezyxd/SillyNeurons) for a better and more dynamic version :D).
 
 
 
